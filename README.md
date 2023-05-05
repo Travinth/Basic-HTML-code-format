@@ -1,2 +1,3 @@
 # Basic-HTML-code-format
-just the basic HTML starting formate
+just the basic HTML starting format
+Just to start HTML
